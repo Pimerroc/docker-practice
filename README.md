@@ -1,6 +1,6 @@
 # Docker Deep Dive
 
-This repos contains the apps and config files for my [Docker Deep Dive](https://www.amazon.com/dp/1916585256) book.
+This repos contains the apps and config files for the [Docker Deep Dive](https://www.amazon.com/dp/1916585256) book by Paulton. The practice is just a hands on on the docker commands.
 
 ## Folders and container images
 
